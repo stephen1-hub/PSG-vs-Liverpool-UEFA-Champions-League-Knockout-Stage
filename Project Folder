@@ -1,0 +1,4 @@
+psg-dashboard/
+│── app.py
+│── shots4.csv
+│── requirements.txt
