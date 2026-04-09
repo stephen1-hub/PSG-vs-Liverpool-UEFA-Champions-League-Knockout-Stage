@@ -1,0 +1,22 @@
+player,team_home,shot_type,situation,body_part,x,y,xg,minute
+Achraf Hakimi,True,block,assisted,right-foot,18.4,67.5,0.035189356654882,89
+Khvicha Kvaratskhelia,True,block,assisted,right-foot,18.4,62.7,0.075354494154453,89
+Ousmane Dembélé,True,post,fast-break,right-foot,8.8,70.0,0.053158581256866,87
+Khvicha Kvaratskhelia,True,miss,corner,head,4.8,62.0,0.050787504762411,83
+Achraf Hakimi,True,save,assisted,left-foot,13.9,62.1,0.099179588258266,82
+Khvicha Kvaratskhelia,True,block,assisted,right-foot,7.4,58.9,0.090037830173969,76
+Désiré Doué,True,block,assisted,right-foot,19.2,43.8,0.070112757384777,76
+Florian Wirtz,False,block,assisted,left-foot,14.3,41.4,0.061676703393459,73
+Khvicha Kvaratskhelia,True,goal,assisted,right-foot,6.6,51.1,0.83161509037018,65
+Alexis Mac Allister,False,block,fast-break,right-foot,19.2,60.9,0.08805013448,59
+Ousmane Dembélé,True,miss,assisted,left-foot,12.8,48.3,0.30972623825073,53
+Achraf Hakimi,True,miss,corner,right-foot,21.6,68.9,0.0072958646342158,53
+Hugo Ekitiké,False,miss,assisted,right-foot,17.6,31.3,0.020758593454957,49
+João Neves,True,miss,assisted,right-foot,17.5,44.8,0.085497759282589,45
+Ousmane Dembélé,True,save,assisted,left-foot,12.8,63.2,0.14159853756428,42
+Khvicha Kvaratskhelia,True,miss,regular,right-foot,5.8,69.5,0.077147223055363,38
+Désiré Doué,True,save,assisted,left-foot,10.5,45.6,0.29878708720207,37
+Khvicha Kvaratskhelia,True,save,set-piece,right-foot,15.3,66.9,0.019976645708084,32
+Khvicha Kvaratskhelia,True,block,assisted,right-foot,19.1,40.7,0.034036248922348,21
+Désiré Doué,True,goal,regular,right-foot,14.0,32.5,0.040193412452936,11
+Désiré Doué,True,block,assisted,left-foot,15.7,61.7,0.03103119134903,10
